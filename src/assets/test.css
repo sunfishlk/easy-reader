@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  overflow-x: hidden;
+}
+#app{
+  height: 100vh;
+}
+a:link{
+  color: #8b8f8d;
+  text-decoration: none;
+  transition: all .2s;
+}
+a:visited{
+  color: #8b8f8d;
+}
+a:hover{
+  color: #00b96b;
+}
+a:active{
+  color: #00b96b;
+}
